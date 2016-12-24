@@ -27,11 +27,11 @@ Table of Contents
 
   5. Useful chanels and Tutorials sites (Searching for materials)
      - [Linux Tutorials](#linux tutorials)
-      
+     - [Youtube Channels](#youtube)
   6. Security
      - [Security](#security)
      
-  7.  Useful 
+  7.  General for Computer Science  
       - [Useful](#useful)
   
   8. Cheat sheets 
