@@ -13,43 +13,28 @@ Table of Contents
 -----------------
 
   1. Programming
-
-      - [Perl](#perl)
-      - [C](#c)
-      - [Python](#python-guides-and-scripts)
-      - [Javascript](#javascript)
+     - [Python](#Python)
+     - [PHP](#PHP)
       
-  2. Source Control
-     - [Git](#git)
-
+  2. Editors
+     - [Vim](#vim)
+      
   3. Terminal
-     - [Bash](#bash-guides-and-scripts)
-     - [Tmux](#tmux)
+     - [Bash](#bash)
 
   4. Operating Systems
      - [Linux](#linux)
 
-  5. Editors
-     - [Vim](#vim)
-     - [Code Editors](#code-editors)
-  
-  6. [Security](#security)
-     
-  7. Automation
-      - [Automation Guides](#automation-guides)
-
-  8. Other Bits
-      - [Awk](#awk)
-      - [Sed](#sed)
-      - [Backups](#backups)
-      - [Email Server Configuration](#email-server-configuration)
-      - [Firewall and Monitoring](#firewall-and-monitoring)
-      - [Philosophy](#philosophy)
-      - [Data Structures](#data-structures)
-      - [Video Tutorials](#video-tutorials)
-      - [Continuous Integration](#continuous-integration)
-      - [Docker](#docker)
-      - [Devops Interview Questions](#devops-interview-questions)
+  5. Useful chanels and Tutorials sites (Searching for materials)
+     - [Linux Tutorials](#linux tutorials)
       
-  9. Networking
-      - [Networking Guides](#networking-guides)
+  6. Security
+     - [Security](#security)
+     
+  7.  Useful 
+      - [Useful](#useful)
+  
+  8. Cheat sheets 
+     - [Netowrking](#networking)
+     
+ 
