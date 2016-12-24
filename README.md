@@ -23,7 +23,7 @@ Table of Contents
      - [Bash](#bash)
 
   4. Operating Systems
-     - [Linux](#linux)
+     - [Linux](./linux/test)
 
   5. Useful chanels and Tutorials sites (Searching for materials)
      - [Linux Tutorials](#linux tutorials)
