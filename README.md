@@ -1,7 +1,7 @@
 # This is collection of useful books, material and tips that I found over the time, which can help you in CS. 
 ------
 
-                    If you have some good materials feel free to contact to me on Email.
+             If you have some good materials and want to share feel free to contact me on Email and I will add it.
 
 <img src="http://www.unixstickers.com/image/data/stickers/binbash/Bash-new.sh.png" width="100" height="100"> 
 
